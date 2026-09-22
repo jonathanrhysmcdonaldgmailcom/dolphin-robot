@@ -53,6 +53,9 @@
       "cycle_time_water": {
         "name": "Cycle Time Water line"
       },
+      "cycle_time_stairs": {
+        "name": "Cycle Time Full coverage"
+      },
       "led_intensity": {
         "name": "LED Intensity"
       }
@@ -76,7 +79,8 @@
           "pickup": "Pickup",
           "short": "Fast mode",
           "ultra": "Ultra clean",
-          "water": "Water line"
+          "water": "Water line",
+          "stairs": "Full coverage"
         }
       },
       "cycle_count": {
@@ -237,7 +241,8 @@
               "pickup": "Pickup",
               "short": "Fast mode",
               "ultra": "Ultra clean",
-              "water": "Water line"
+              "water": "Water line",
+              "stairs": "Full coverage"
             }
           }
         }
