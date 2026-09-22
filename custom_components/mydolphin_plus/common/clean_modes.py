@@ -9,6 +9,7 @@ class CleanModes(StrEnum):
     FLOOR_ONLY = "floor"
     WATER_LINE = "water"
     ULTRA_CLEAN = "ultra"
+    FULL_COVERAGE = "stairs"
     PICKUP = "pickup"
 
 
@@ -18,6 +19,7 @@ CLEAN_MODES_CYCLE_TIME = {
     CleanModes.FLOOR_ONLY: 120,
     CleanModes.WATER_LINE: 120,
     CleanModes.ULTRA_CLEAN: 120,
+    CleanModes.FULL_COVERAGE: 180,
     CleanModes.PICKUP: 5,
 }
 
