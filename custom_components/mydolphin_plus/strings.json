@@ -74,6 +74,9 @@
       "cycle_time_ultra": {
         "name": "Cycle Time Ultra clean"
       },
+      "cycle_time_stairs": {
+        "name": "Cycle Time Full coverage"
+      },
       "cycle_time_pickup": {
         "name": "Cycle Time Pickup"
       }
@@ -150,6 +153,7 @@
           "floor": "Floor only",
           "water": "Water line",
           "ultra": "Ultra clean",
+          "stairs": "Full coverage",
           "pickup": "Pickup"
         }
       },
@@ -258,6 +262,7 @@
               "floor": "Floor only",
               "water": "Water line",
               "ultra": "Ultra clean",
+              "stairs": "Full coverage",
               "pickup": "Pickup"
             }
           }
